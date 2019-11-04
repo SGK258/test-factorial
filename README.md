@@ -19,3 +19,8 @@ Suggestions for improvements :
 
 TestExecution :
     Screenshot of the Run Config included in TestExecutionConfig File
+    You can also run in cmd window from project dir with a cmd:  gradle test --tests FactorialTestSpec
+
+Test Results:
+    View TestSummary report in folder - /build/reports/tests/test/index.html
+    NOTE: This project has few failed test cases - Expected output is Test Fails - 3 , Total Tests = 9
