@@ -61,5 +61,5 @@ Then: Verify Copyright page is displayed
 Feature: UI - Resolution, Window resize
 
 Given; You have factorial application open in a window
-When: change the resolution or window size
-Then: verify application has no UI issues.
+When: Change the resolution or window size
+Then: Verify application has no UI issues.
