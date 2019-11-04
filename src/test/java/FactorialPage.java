@@ -140,8 +140,7 @@ public class FactorialPage {
         String actualResult = resultTextAsArray[1].trim();
 
         int expectedResult = factorial(num);
-        System.out.println(actualResult);
-        System.out.println("--"+expectedResult);
+        System.out.println(actualResult+"--"+expectedResult);
 
         Assert.assertEquals(Integer.parseInt(actualResult), expectedResult);
 
