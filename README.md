@@ -23,7 +23,6 @@ When: Click the submit button
 Then: Verify the error msg - Please enter an integer
 
 
-
 Feature:  Verify factorial Successful for any  0 - 170  integer
 
 Given: You are on Factorial Page
@@ -57,7 +56,6 @@ Feature: Copyright Link
 Given : You are on Factorial page
 When: Click on the Copyright link
 Then: Verify Copyright page is displayed
-
 
 
 Feature: UI - Resolution, Window resize
